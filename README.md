@@ -11,13 +11,13 @@ A lightweight Android WebView application for **Shikkhabot**, an AI-powered lear
 ## Download APK
 
 <p align="center">
-  <a href="https://github.com/MahatirTusher/Shikkhabot-apk/releases/download/v1.0.0/Shikkhabot.apk">
+  <a href="https://github.com/MahatirTusher/Shikkhabot-apk/releases/download/v1.0.0/Shikkhabot-v1.0.2.apk">
     <img src="https://i.postimg.cc/8Cm0KW3T/image.png" alt="Download APK" width="140">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MahatirTusher/Shikkhabot-apk/releases/download/v1.0.0/Shikkhabot.apk">
+  <a href="https://github.com/MahatirTusher/Shikkhabot-apk/releases/download/v1.0.0/Shikkhabot-v1.0.2.apk">
     <strong>📥 Download Latest APK</strong>
   </a>
 </p>
